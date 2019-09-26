@@ -2,21 +2,21 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>https://codingcrews.github.io</loc>
+        <loc>https://rogiry.github.io</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
 
     <url>
-        <loc>https://codingcrews.github.io/categories/aws/</loc>
-        <lastmod>2019-01-29T18:35:26.612Z</lastmod>
+        <loc>https://rogiry.github.io/categories/aws/</loc>
+        <lastmod>2019-09-26T17:35:07.383Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://codingcrews.github.io/categories/ml/</loc>
-        <lastmod>2019-02-01T23:14:14.183Z</lastmod>
+        <loc>https://rogiry.github.io/categories/ml/</loc>
+        <lastmod>2019-09-26T17:35:07.386Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
